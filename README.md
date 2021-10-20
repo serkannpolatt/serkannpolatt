@@ -1,4 +1,4 @@
-### Hi there, I'm Serkan - aka [serkannpolatt][website] 👋
+### Hi there, I'm Serkan - [serkannpolatt]
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything :)
