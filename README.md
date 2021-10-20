@@ -16,6 +16,11 @@
 
 
 
+## GIF
+Coding Animation by Lorenzo Zottar at https://dribbble.com/shots/3641004-Coding-Animation
+
+
+
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything :)
 - 👯 I’m looking to collaborate with other content creators
