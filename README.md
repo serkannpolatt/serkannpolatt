@@ -25,14 +25,12 @@
 <br />
 <br />
 
+
+
+
 ### Connect with me:
 
+[instagram]: https://www.instagram.com/serkan4pf/
 
-### Connect with me:
-
-
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-You can reach me on [https://www.instagram.com/serkan4pf/]
 
 
