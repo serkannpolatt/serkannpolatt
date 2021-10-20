@@ -1,5 +1,9 @@
 ### Hi there, I'm Serkan - [serkannpolatt]
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything :)
 - 👯 I’m looking to collaborate with other content creators
