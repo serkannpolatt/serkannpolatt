@@ -9,8 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to software :)
-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-- https://www.spotify.com/tr/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account
+- ![Spotify](https://www.spotify.com/tr/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
 
 
 
