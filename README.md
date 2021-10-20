@@ -1,5 +1,4 @@
-### Hi there, I'm Serkan - [serkannpolatt]
-
+### Hi there, I'm Serkan 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
@@ -9,7 +8,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to software :)
-- ![Spotify](https://www.spotify.com/tr/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
+
+ 
 
 
 
@@ -33,8 +33,6 @@
 
 ### Connect with me:
 
-[![Version](https://img.shields.io/badge/Brutesploit-1.1.0-brightgreen.svg?maxAge=259200)]()
-[![Version](https://img.shields.io/badge/Codename-Pretty-red.svg?maxAge=259200)]()
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) S3RKAN#4977
 
+You can reach me on [instagram]: https://instagram.com/codeSTACKr @serkan4pf (https://www.instagram.com/serkan4pf/)
