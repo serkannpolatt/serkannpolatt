@@ -32,9 +32,7 @@
 
 - 📫 How to reach me **pserkan253@gmail.com** 
 
-</a>
-<a href="https://discord.gg/https://discord.com/invite/S3RKAN#4977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/S3RKAN#4977" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://instagram.com/serkan4pf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan4pf" height="30" width="40" /></a> </a>
 <a href="https://discord.gg/https://discord.com/invite/S3RKAN#4977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/S3RKAN#4977" height="30" width="40" /></a>
