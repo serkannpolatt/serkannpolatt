@@ -8,8 +8,6 @@
  </abc>
 </h2> 
 
-  <h1 align="center">Hi 👋, I'm SERKAN!</h1>
-<br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
