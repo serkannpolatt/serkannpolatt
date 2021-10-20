@@ -7,19 +7,13 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-  .expectBadge({ label: 'website', message: 'up', color: 'brightgreen' })
 
-t.create('status of nonexistent domain')
-  .get('/website.json?url=http://shields.io.io')
-  .get('/website.json?url=https://shields.io.io')
-  .timeout(15000)
-  .expectBadge({ label: 'website', message: 'down', color: 'red' })
+  <h1 align="center">Hi 👋, I'm SERKAN!</h1>
+<br>
 
-t.create('status when network is off')
-  .get('/website.json?url=http://shields.io')
-  .get('/website.json?url=https://shields.io')
-  .networkOff()
-  .expectBadge({ label: 'website', message: 'down', color: 'red' })
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
  
  <h2 align="left">👨🏻‍💻 About Me:</h2>
  
