@@ -9,7 +9,8 @@
 </h2> 
  
  <h2 align="left">👨🏻‍💻 About Me:</h2>
-
+ 
+- -A passionate frontend developer from TURKEY</h3>
 - 🔭 I’m currently working on a [VS Code Course][PYTTHON]!
 
 - 🌱 I’m currently learning everything 🤣
@@ -19,8 +20,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to software :)
-- 
--A passionate frontend developer from TURKEY</h3> 
 
 - 📫 How to reach me **pserkan253@gmail.com** 
 
