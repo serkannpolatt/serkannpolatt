@@ -8,10 +8,12 @@
  </abc>
 </h2> 
 
-
-
-💻 Operating Systems:
-Windows                  8 hrs 46 mins       █████████████████████████   100.0%
+- uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False
 
  
  <h2 align="left">👨🏻‍💻 About Me:</h2>
