@@ -26,10 +26,16 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+
 - 🔭 I’m currently working on a [VS Code Course][website]!
+- 
 - 🌱 I’m currently learning everything 🤣
+- 
 - 👯 I’m looking to collaborate with other content creators
+- 
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- 
 - ⚡ Fun fact: I love to software :)
+- 
 <h2 align="left">:heart: 
 
