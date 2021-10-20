@@ -11,7 +11,7 @@
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
  
-- -A passionate frontend developer from TURKEY</h3>
+-  A passionate frontend developer from TURKEY</h3>
 - 🔭 I’m currently working on a [VS Code Course][PYTHON]!
 
 - 🌱 I’m currently learning everything 🤣
