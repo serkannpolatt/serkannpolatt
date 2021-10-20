@@ -16,15 +16,6 @@
 
 
 
-* text=auto eol=lf 
-* ## GIF
-Coding Animation by Lorenzo Zottar at https://dribbble.com/shots/3641004-Coding-Animation
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
-
-
-
 
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -32,6 +23,16 @@ Coding Animation by Lorenzo Zottar at https://dribbble.com/shots/3641004-Coding-
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to software :)
+
+
+
+
+* text=auto eol=lf 
+* ## GIF
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 
 
 
