@@ -34,6 +34,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[instagram]: https://www.instagram.com/serkan4pf/
+[![Version](https://img.shields.io/badge/Brutesploit-1.1.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Codename-Pretty-red.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
