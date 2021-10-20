@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **pserkan253@gmail.com** 
 
-/></a>
+</a>
 <a href="https://discord.gg/https://discord.com/invite/S3RKAN#4977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/S3RKAN#4977" height="30" width="40" /></a>
 </p>
 
