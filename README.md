@@ -26,8 +26,6 @@
 <br />
 
 
-
-
 ### Connect with me:
 
 [instagram]: https://www.instagram.com/serkan4pf/
