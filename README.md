@@ -7,29 +7,19 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-name: Waka Readme
+  .expectBadge({ label: 'website', message: 'up', color: 'brightgreen' })
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-- uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False
+t.create('status of nonexistent domain')
+  .get('/website.json?url=http://shields.io.io')
+  .get('/website.json?url=https://shields.io.io')
+  .timeout(15000)
+  .expectBadge({ label: 'website', message: 'down', color: 'red' })
 
+t.create('status when network is off')
+  .get('/website.json?url=http://shields.io')
+  .get('/website.json?url=https://shields.io')
+  .networkOff()
+  .expectBadge({ label: 'website', message: 'down', color: 'red' })
  
  <h2 align="left">👨🏻‍💻 About Me:</h2>
  
