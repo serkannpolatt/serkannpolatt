@@ -28,8 +28,6 @@
 
 - ⚡ Fun fact: I love to software :)
 
-- 👨‍💻 All of my projects are available at [Repositories>tryexpect](Repositories>tryexpect) (https://github.com/serkannpolatt/tryexpect)
-
 - 📫 How to reach me **pserkan253@gmail.com** 
 
 
