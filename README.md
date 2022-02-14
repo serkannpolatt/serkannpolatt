@@ -9,9 +9,6 @@
 </h2> 
 
 
-![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true&locale=en" alt="serkannpolatt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannpolatt&" alt="serkannpolatt" /></p>
@@ -32,6 +29,8 @@
 
 - 📫 How to reach me **pserkan253@gmail.com** 
 
+
+![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
 
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.instagram.com/serkan4pf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan4pf" height="30" width="40" /></a> </a>
