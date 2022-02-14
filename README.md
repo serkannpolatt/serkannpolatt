@@ -9,6 +9,8 @@
 </h2> 
 
 
+![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true&locale=en" alt="serkannpolatt" /></p>
 
