@@ -16,7 +16,7 @@
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
  
--  On the way to become a data science in Turkey</h3>
+-  On the way to become a Data Scientist in Turkey</h3>
 - 🔭 I’m currently working on a [VS Code Course][PYTHON]!
 
 - 🌱 I’m currently learning everything 🤣
