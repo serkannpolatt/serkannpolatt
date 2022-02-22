@@ -30,11 +30,12 @@
 - 📫 How to reach me **pserkan253@gmail.com** 
 
 ![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
-<a href="https://www.linkedin.com/in/serkan-polat-149360227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serkanpolat-blue?style=flat&logo=linkedin"></a>
+
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.instagram.com/serkan4pf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan4pf" height="30" width="40" /></a> </a>
 <p align="left">
-
+<a href="https://www.linkedin.com/in/serkan-polat-149360227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serkanpolat-blue?style=flat&logo=linkedin"></a>
+ 
 
 </p>
  </p> <h3 align="left">
