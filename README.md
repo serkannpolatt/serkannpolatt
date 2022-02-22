@@ -9,21 +9,6 @@
 </h2> 
 
 
-
-
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkannpolatt&layout=compact&theme=tokyonight" height="180">
-  
-</p>
-
-
-
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true&locale=en" alt="serkannpolatt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannpolatt&" alt="serkannpolatt" /></p>
