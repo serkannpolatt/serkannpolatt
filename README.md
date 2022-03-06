@@ -20,7 +20,7 @@
   
 - I’m currently working on a [VS Code Course][PYTHON]!
 
-- I’m currently learning everything 🤣
+- I’m currently learning everything
 
 - I’m looking to collaborate with other content creators
  
