@@ -16,18 +16,19 @@
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
  
--  On the way to become a Data Scientist in Turkey</h3>
-- 🔭 I’m currently working on a [VS Code Course][PYTHON]!
+- On the way to become a Data Scientist in Turkey</h3>
+  
+- I’m currently working on a [VS Code Course][PYTHON]!
 
-- 🌱 I’m currently learning everything 🤣
+- I’m currently learning everything 🤣
 
-- 👯 I’m looking to collaborate with other content creators
+- I’m looking to collaborate with other content creators
  
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 2022 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I love to software :)
+- Fun fact: I love to software :)
 
-- 📫 How to reach me **pserkan253@gmail.com** 
+- How to reach me **pserkan253@gmail.com** 
 
 ![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
 
