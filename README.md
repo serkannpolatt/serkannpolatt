@@ -18,7 +18,7 @@
  
 - On the way to become a Data Scientist in Turkey</h3>
   
-- I’m currently working on a [VS Code Course][PYTHON]!
+- I’m currently working on a [PYTHON]!
 
 - I’m currently learning everything
 
