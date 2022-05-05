@@ -49,3 +49,9 @@
 <div>
   <img src="https://github.com/serkannpolatt/serkannpolatt/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
+
+<!-- ![Snake animation](https://github.com/serkannpolatt/serkannpolatt/blob/output/github-contribution-grid-snake.svg) -->
+
+------
+
+Last Edited on: 17/09/2021
