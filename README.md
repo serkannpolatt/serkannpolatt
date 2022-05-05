@@ -13,6 +13,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannpolatt&" alt="serkannpolatt" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkannpolatt&layout=compact" />
 
 
 - On the way to become a Data Scientist in Turkey</h3>
