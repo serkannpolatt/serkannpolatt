@@ -33,6 +33,18 @@
 ![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
 
 
+<!--
+[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
+-->
+<hr>
+<h2 align="center">Now Playing</h2>
+ <a href ="https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq">
+<p align="center">
+
+<img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" />
+
+
+
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.instagram.com/serkan4pf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan4pf" height="30" width="40" /></a> </a>
 <p align="left">
 <a href="https://www.linkedin.com/in/serkan-polat-149360227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serkanpolat-blue?style=flat&logo=linkedin"></a>
