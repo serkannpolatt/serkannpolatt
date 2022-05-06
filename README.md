@@ -34,7 +34,8 @@
 
 
 <!--
-[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
+[![Spotify](https://novatorem-21ilrpttp2nb4vvtazsavz5dq.vercel.app/api/spotify)](https://open.spotify.com/user/21ilrpttp2nb4vvtazsavz5dq
+)
 -->
 <hr>
 <h2 align="center">Now Playing</h2>
