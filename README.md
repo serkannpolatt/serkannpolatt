@@ -2,12 +2,19 @@
  <abc>
   <br>
  - On the way to become a Data Scientist in Turkey</h3>
+ 
  - I’m currently working on a PYTHON!
+ 
  - I’m currently learning everything
+ 
  - I’m looking to collaborate with other content creators
+ 
  - 2022 Goals: Contribute more to Open Source projects
+ 
  - Fun fact: I love to software 
+ 
  - How to reach me **pserkan253@gmail.com** 
+ 
  </abc>
 </h2> 
 
