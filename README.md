@@ -18,7 +18,7 @@
  </abc>
 </h2> 
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true&locale=en" alt="serkannpolatt" /></p>
 
