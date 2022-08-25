@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
- - On the way to become a Data Scientist in Turkey</h3>
+ - On the way to become a Data Scientist </h3>
  
  - I’m currently working on a PYTHON!
  
