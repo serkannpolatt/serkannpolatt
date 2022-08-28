@@ -5,7 +5,7 @@
  
  - I’m currently working on a PYTHON!
  
- - I’m currently learning everything
+ - I’m currently learning AI
  
  - I’m looking to collaborate with other content creators
  
