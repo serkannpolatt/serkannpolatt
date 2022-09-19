@@ -59,8 +59,7 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
  
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p>
 
 
 
