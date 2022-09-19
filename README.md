@@ -24,10 +24,6 @@
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannpolatt&theme=dark" alt="serkannpolatt" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkannpolatt&layout=compact" />
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p>
 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan4pf" height="30" width="40" /></a> </a>
