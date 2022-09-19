@@ -58,6 +58,8 @@
  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkannpolatt&label=Profile%20views&color=0e75b6&style=flat-square" alt="serkannpolatt" /> </p>
 
 
 
