@@ -26,7 +26,7 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p>
 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan4pf" height="30" width="40" /></a> </a>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/serkan-polat-149360227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serkanpolat-blue?style=flat&logo=linkedin"></a>
  
