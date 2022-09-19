@@ -59,5 +59,8 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannpolatt&theme=dark" alt="serkannpolatt" /></p>
+<div  align="center"> <img src="https://github.com/serkannpolatt/serkannpolatt/blob/output/github-contribution-grid-snake.svg" /></div>
+ 
 
 
