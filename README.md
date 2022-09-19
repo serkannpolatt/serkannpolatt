@@ -63,7 +63,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannpolatt&theme=dark" alt="serkannpolatt" /></p>
 
  
 
