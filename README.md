@@ -27,18 +27,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p>
 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/serkan-polat-149360227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serkanpolat-blue?style=flat&logo=linkedin"></a>
- 
-
 </p>
  </p> <h3 align="left">
  
  Languages and Tools:
- 
- 
- 
- 
  
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
