@@ -59,7 +59,8 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkannpolatt" alt="serkannpolatt" /></a> </p>
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
+
 
 
 
