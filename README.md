@@ -11,7 +11,7 @@
  
  - Fun fact: I love to software 
  
- - How to reach me **pserkan253@gmail.com** 
+ - How to reach me **https://heylink.me/serkannpolatt/** 
  
  ![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
  
