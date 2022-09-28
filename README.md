@@ -3,13 +3,11 @@
   <br>
  - On the way to become a Data Scientist </h3>
  
- - I’m currently working on a PYTHON!
+ - I’m currently working on a python
  
  - I’m currently learning AI
  
  - I’m looking to collaborate with other content creators
- 
- - Fun fact: I love to software 
  
  - How to reach me **https://heylink.me/serkannpolatt/** 
  
