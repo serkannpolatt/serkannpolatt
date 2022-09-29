@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
 <h2 align="left">
  <abc>
   <br>
