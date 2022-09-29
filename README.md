@@ -16,6 +16,10 @@
  </abc>
 </h2> 
 
+
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
+
 <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
