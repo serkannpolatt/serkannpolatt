@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
 <h2 align="left">
  <abc>
   <br>
@@ -15,10 +17,6 @@
  
  </abc>
 </h2> 
-
-
-![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
 
 <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
