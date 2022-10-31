@@ -1,9 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card) <p><img align="center" 
 
 # Hey, I'm Serkan Polat! 
 I'm working as a Jr data scientist at **Big-A Dijital Dönüşüm**. I’m currently learning AI.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card) <p><img align="center" 
+
 
  
  Languages and Tools:
