@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
 # Hey, I'm Serkan Polat! 
-I'm working as a Jr data scientist at **Big-A Dijital Dönüşüm**. Interested in generative data.
+I'm working as a Jr data scientist at **Big-A Dijital Dönüşüm**. I’m currently learning AI.
 
 
 [![](https://img.shields.io/github/followers/serkannpolatt?style=social)](https://www.github.com/serkannpolatt)
@@ -28,6 +28,7 @@ I'm working as a Jr data scientist at **Big-A Dijital Dönüşüm**. Interested 
  
 
 
- 
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card) <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p> </p> </p> <h3 align="left">
 
 
