@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true">
 
 # Hey, I'm Serkan Polat! 
-I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm**. I’m currently learning Data Analyst and Business Analyst.Interested in generative data.
+I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm**. I’m currently learning Data Analyst and Business Analyst. Interested in generative data.
 
 [![](https://img.shields.io/github/followers/serkannpolatt?style=social)](https://www.github.com/serkannpolatt)
 
