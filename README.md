@@ -1,8 +1,10 @@
 ## Hey, I'm Serkan Polat!  
  
-### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm**. I’m currently learning Data Analyst and Business Analyst. Interested in generative data.  
-![Profile views counter](https://komarev.com/ghpvc/?username=serkannpolatt&&style=flat-square)  
+### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm**. I’m currently learning Data Analyst and Business Analyst. Interested in generative data. 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/serkannpolatt/count.svg?"  />
+</div>
 <br/>  
 
 ## I code with
@@ -29,7 +31,6 @@
 <br/>  
 
   
-
 
 
 
