@@ -1,30 +1,12 @@
-<h2 align="left">
- <abc>
-  <br>
- - On the way to become a Data Scientist </h3>
- 
- - I’m currently working on a python
- 
- - I’m currently learning AI
- 
- - I’m looking to collaborate with other content creators
- 
- - How to reach me **https://heylink.me/serkannpolatt/** 
- 
- ![](https://komarev.com/ghpvc/?username=serkannpolatt&color=ff69b4&label=Profile+views)
- 
- </abc>
-</h2> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
-<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
-
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serkannpolatt?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkannpolatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="serkannpolatt" /></p>
+# Hey, I'm Serkan Polat! 
+I'm working as a Jr data scientist at **Big-A Dijital Dönüşüm**. Interested in generative data.
 
 
-</p>
- </p> <h3 align="left">
+[![](https://img.shields.io/github/followers/serkannpolatt?style=social)](https://www.github.com/serkannpolatt)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
  
  Languages and Tools:
  
