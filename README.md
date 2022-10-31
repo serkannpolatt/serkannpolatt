@@ -1,4 +1,4 @@
-<img align='right'  src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=serkannpolatt&show_icons=true">
 
 # Hey, I'm Serkan Polat! 
 I'm working as a Jr data scientist at **Big-A Dijital Dönüşüm**. I’m currently learning Data Analyst and Business Analyst.Interested in generative data.
