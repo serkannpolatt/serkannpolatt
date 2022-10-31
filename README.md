@@ -58,5 +58,4 @@ I'm working as a Intern Jr. Data Scientist at Big-A Dijital Dönüşüm. I’m c
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
