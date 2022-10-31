@@ -3,6 +3,10 @@
 # Hey, I'm Serkan Polat! 
 I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm**. I’m currently learning Data Analyst and Business Analyst.Interested in generative data.
 
+[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/serkannpolatt)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
+
 
  Languages and Tools:
  
