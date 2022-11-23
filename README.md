@@ -1,6 +1,6 @@
 ## Hey, I'm Serkan Polat!  
  
-### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm** also studying management information systems. I’m currently learning Data Analyst and Business Analyst. I blog about data science and other topics
+### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm** also studying management information systems. I blog about data science and other topics
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
 
