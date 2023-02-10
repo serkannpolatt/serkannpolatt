@@ -5,7 +5,7 @@ Jr.Data Scientist
 ------------------------------------
 Currently working on Machine Learning, Deep Learning.
 ------------------------------------
-### I am currently serving as an Intern Junior Data Scientist at Big-A Digital Transformation, while also pursuing a degree in Management Information Systems at Atatürk University. I have a passion for working with datasets and I showcase my Python-based analysis on this platform. You can review the notebooks I have created to solve real-world problems and my progress in this field. Thanks to my contributions on Kaggle, I have achieved mastery status, which you can verify by visiting my profile ([link](https://www.kaggle.com/serkanp)). Additionally, my cousin and I collaborate on a blog covering data science and various other topics on our joint website, Softforware.
+### I am currently serving as an Intern Junior Data Scientist at Big-A Digital Transformation, while also pursuing a degree in Management Information Systems at Atatürk University. I have a passion for working with datasets and I showcase my Python-based analysis on this platform. You can review the notebooks I have created to solve real-world problems and my progress in this field. Thanks to my contributions on Kaggle, I have achieved mastery status, which you can verify by visiting my profile ([link](https://www.kaggle.com/serkanp)). Additionally, my cousin and I collaborate on a blog covering data science and various other topics on our joint website , ([Softforware](https://softforware.tech/)).
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
 
