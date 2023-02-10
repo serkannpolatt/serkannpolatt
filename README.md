@@ -1,5 +1,4 @@
 ## Hey, I'm Serkan Polat!  
-
 =============================
 
 Jr.Data Scientist
