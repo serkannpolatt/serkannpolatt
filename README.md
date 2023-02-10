@@ -1,7 +1,7 @@
 Greetings, I am Serkan Polat
 =============================
 
-Jr.Data Scientist
+Jr.Data Scientist and Business Analyst
 ------------------------------------
 Presently, I am engaged in the field of Machine Learning, Deep Learning, and Image Processing.
 ------------------------------------
