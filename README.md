@@ -1,4 +1,4 @@
-Hey, I'm Serkan Polat!  
+Greetings, I am Serkan Polat
 =============================
 
 Jr.Data Scientist
