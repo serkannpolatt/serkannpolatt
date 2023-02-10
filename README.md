@@ -5,7 +5,7 @@ Jr.Data Scientist
 ------------------------------------
 Currently working on Machine Learning, Deep Learning.
 ------------------------------------
-### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm** also studying management information systems at Atatürk University. Me and my cousin blog about data science and other topics on our joint site **Softforware**.
+### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm** also studying management information systems at Atatürk University.I love dealing with datasets and I share my analysis with python on this platform. You can look at the notebooks that I have solved real life problems and developed on this subject,and thanks to the notebooks I shared on kaggle, I became a master, you can check my profile here ([link](https://www.kaggle.com/serkanp)) . Me and my cousin blog about data science and other topics on our joint site **Softforware**.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
 
