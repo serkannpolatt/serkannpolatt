@@ -3,7 +3,7 @@ Hey, I'm Serkan Polat!
 
 Jr.Data Scientist
 ------------------------------------
-
+Currently working on Machine Learning, Deep Learning.
 
 ### I'm working as a Intern Jr. Data Scientist at **Big-A Dijital Dönüşüm** also studying management information systems at Atatürk University. Me and my cousin blog about data science and other topics on our joint site **Softforware**.
 
