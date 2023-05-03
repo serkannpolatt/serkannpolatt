@@ -1,4 +1,4 @@
-Hello there, I am Serkan Polat
+Hello there, I'm Serkan Polat
 ------------------------------------
 Data Scientist and Business Analyst
 ------------------------------------
