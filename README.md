@@ -9,7 +9,7 @@ Presently, I am engaged in the field of Machine Learning and Deep Learning.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
 
 
-[![Sport with AI - Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=sport-with-ai-monorepo&theme=dark)](https://github.com/serkannpolatt/REAL-LIFE-DATA-SCIENCE-PROJECTS)
+[![Sport with AI - Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=serkannpolattn&repo=real-life-data-monorepo&theme=dark)](https://github.com/serkannpolatt/REAL-LIFE-DATA-SCIENCE-PROJECTS)
 
 
 
