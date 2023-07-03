@@ -8,12 +8,6 @@ Presently, I am engaged in the field of Machine Learning and Deep Learning.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=serkannpolatt)
 
-<h3 align="left">Socials</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/serkan-polat-149360227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serkan-polat-149360227/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/serkanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/serkanp" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/itsonlydatahustle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itsonlydatahustle/" height="30" width="40" /></a>
-</p>
 
 
 
