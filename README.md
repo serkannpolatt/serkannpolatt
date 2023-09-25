@@ -1,6 +1,6 @@
 Hello there, I'm Serkan Polat
 ------------------------------------
-Data Scientist and Business Analyst
+Data Scientist 
 ------------------------------------
 Presently, I am engaged in the field of Machine Learning and Deep Learning.
 ------------------------------------
